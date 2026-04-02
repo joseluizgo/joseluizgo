@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Cursando Ciência da Computação. Estudando desenvolvimento web.<br>Atualmente desenvolvo projetos utilizando HTML, CSS e JavaScript, buscando evoluir para o Full Stack.<br><br>Tenho disciplina, constância e foco em crescimento técnico e profissional.<br>Meu objetivo é construir soluções simples, funcionais e bem estruturadas.</p>
+<p align="left">Cursando Ciência da Computação. Estudando desenvolvimento full stack.<br>Atualmente desenvolvo projetos utilizando HTML, CSS e JavaScript, buscando evoluir para o Full Stack.<br><br>Tenho disciplina, constância e foco em crescimento técnico e profissional.<br>Meu objetivo é construir soluções simples, funcionais e bem estruturadas.</p>
 
 ###
 
