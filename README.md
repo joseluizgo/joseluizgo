@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://www.gmail.com/joseluizgo" height="25" alt="gmail logo"  />
-  <img src="<img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/ad4ddd4c-403a-44b1-83a8-7d96155dc16d" />
-" height="25" alt="instagram logo"  />
-  <img src="https://www.linkedin.com/joseluizgo" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
 ###
